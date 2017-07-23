@@ -10,3 +10,5 @@ PHP program waits a query sent by client as soon as gives back results to displa
 Web page was written with basic HTML. It can describe queried result with a table so that users are easily to accept because of the regular format. By the way, web server is Appache server.
 
 In general, this information checking system includes 153 people's 17 kinds of information. User just input somebody's name, the relative information will be showed in the webpage with a table right now.
+ Look thos page:
+        http://45.127.97.71/info.php
