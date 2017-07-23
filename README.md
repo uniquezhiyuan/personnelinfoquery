@@ -11,4 +11,4 @@ Web page was written with basic HTML. It can describe queried result with a tabl
 
 In general, this information checking system includes 153 people's 17 kinds of information. User just input somebody's name, the relative information will be showed in the webpage with a table right now.
  Look this page:
-        http://45.127.97.71/info.php
+        http://45.127.97.71/info.html
